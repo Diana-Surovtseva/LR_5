@@ -17,7 +17,6 @@ Engineer engineer1 = new Engineer("Artur", "Jun dev", "777777");
 
 Employee employee2 = new Manager("Tolik", "Worker", "78787778");
         System.out.println(employee2.toString());
-        System.out.println("done");
 
 employee2.doWork();
     }
